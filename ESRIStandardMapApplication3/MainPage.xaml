@@ -25,7 +25,7 @@
         		Url="http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer" />
         </esri:Map>
         
-        <!-- Main Menu -->
+        <!-- Main Menu  -->
         <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10" >
             <userControls:CollapsiblePanel x:Name="MainManu" IsExpanded="True" 
                                            RenderTransformOrigin="0,0"
